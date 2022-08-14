@@ -13,7 +13,7 @@ This is the frst template Website STandard Edition the EN  Edition.
 - logo makers.
 - Designers.
 - Developers.
-- Artists etc . . . 
+- Artists etc...
 ##Additional informations : 
 - this website has been created in 13/jul/2022 by hamza bella(onobrain) 
 - You can get this website modified in our facebook store.https://www.facebook.com/profile.php?id=100082952841523
