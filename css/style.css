@@ -626,7 +626,7 @@ li:hover .nav-item::after{
      }
      #hero .container .navbar .nav{
          flex-direction:column;
-         justify-content: space-evenly;
+         justify-content: space-around;
          color:white;
      }
      #hero .container .navbar .nav .nav-item{
@@ -644,7 +644,7 @@ li:hover .nav-item::after{
     }
         /* styling the portfolio section for mobile */
     #portfolio .portfolio{
-        width:95%;
+        width:100%;
     }
     #portfolio .portfolio .portfolio-text{
         width:100%;
@@ -666,6 +666,7 @@ li:hover .nav-item::after{
             "cell5 cell6"
             "cell5 cell6";
         overflow: hidden;
+        width:100%;
     }
     #portfolio .portfolio .gallery-collection .cell .collection-type p{
         display:none;
@@ -683,5 +684,8 @@ li:hover .nav-item::after{
     #footer .footer .socials{
         width:80%;
         justify-content: space-between;
+    }
+    #footer .footer .socials .social{
+        width:50px; height:50px;
     }
 }
